@@ -1,0 +1,7 @@
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\cSharpListEx_02\cSharpListEx_02\bin\Debug\cSharpListEx_02.exe.config
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\cSharpListEx_02\cSharpListEx_02\bin\Debug\cSharpListEx_02.exe
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\cSharpListEx_02\cSharpListEx_02\bin\Debug\cSharpListEx_02.pdb
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\cSharpListEx_02\cSharpListEx_02\obj\Debug\cSharpListEx_02.csproj.AssemblyReference.cache
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\cSharpListEx_02\cSharpListEx_02\obj\Debug\cSharpListEx_02.csproj.CoreCompileInputs.cache
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\cSharpListEx_02\cSharpListEx_02\obj\Debug\cSharpListEx_02.exe
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\cSharpListEx_02\cSharpListEx_02\obj\Debug\cSharpListEx_02.pdb
